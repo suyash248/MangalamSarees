@@ -12,3 +12,21 @@ Web application to run a small business online. Provides a nice merchant/client/
 #### Preview - 
 
 ![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/1.png)
+
+
+![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/2.png)
+
+
+![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/3.png)
+
+
+![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/4.png)
+
+
+![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/5.png)
+
+
+![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/6.png)
+
+
+![alt text](https://github.com/suyash248/mangalam_sarees/blob/master/screenshots/7.png)
